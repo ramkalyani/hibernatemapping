@@ -1,0 +1,5 @@
+customer information
+customer name:kalyani
+customer address:bangalore
+customer mobile number :8861690162
+s
